@@ -19,4 +19,4 @@
 
 
 # Functions
-![[Pasted image 20251015181141.png]]
+![[assets/Pasted image 20251015181141.png]]
