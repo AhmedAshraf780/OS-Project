@@ -15,15 +15,15 @@
 - its address that it's in memory now
 
 # Functions
-1. ![[Pasted image 20251015175336.png]]
+1. ![[assets/Pasted image 20251015175336.png]]
 
 
-2. ![[Pasted image 20251015175359.png]]
-3. ![[Pasted image 20251015175438.png]]
-4. ![[Pasted image 20251015175458.png]]
-5. ![[Pasted image 20251015175509.png]]
-6. ![[Pasted image 20251015175522.png]]
-7. ![[Pasted image 20251015175559.png]]
-8. ![[Pasted image 20251015175536.png]]
+2. ![[assets/Pasted image 20251015175359.png]]
+3. ![[assets/Pasted image 20251015175438.png]]
+4. ![[assets/Pasted image 20251015175458.png]]
+5. ![[assets/Pasted image 20251015175509.png]]
+6. ![[assets/Pasted image 20251015175522.png]]
+7. ![[assets/Pasted image 20251015175559.png]]
+8. ![[assets/Pasted image 20251015175536.png]]
 # Bonus
-![[Pasted image 20251015175626.png]]
+![[assets/Pasted image 20251015175626.png]]
