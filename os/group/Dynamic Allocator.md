@@ -16,10 +16,10 @@
 
 # Functions will be created
 1. 
-![[Pasted image 20251015173106.png]]
-2. ![[Pasted image 20251015173133.png]]
-3. ![[Pasted image 20251015173153.png]]
-4. ![[Pasted image 20251015173210.png]]
+![[assets/Pasted image 20251015173106.png]]
+2. ![[assets/Pasted image 20251015173133.png]]
+3. ![[assets/Pasted image 20251015173153.png]]
+4. ![[assets/Pasted image 20251015173210.png]]
 # Bonus
-![[Pasted image 20251015173314.png]]
+![[assets/Pasted image 20251015173314.png]]
 
